@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\my_github\\repositories\\aryansaurav\\ONNX_Sample_Inference\\ConsoleApp1"
+    }
+  }
+}
